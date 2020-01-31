@@ -5,7 +5,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 
-class FooTest {
+public class FooTest {
 
 
 
